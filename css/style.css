@@ -33,7 +33,6 @@ font-family: 'Poppins', sans-serif;
 
 header{
   background-color: #5299E2;
-  min-height: 600px;
 }
 .navbar-nav li a{
   color: white !important;
@@ -48,4 +47,17 @@ header{
   position: absolute;
   top: 217px;
   left: 1210px;
+}
+
+/* main Section */
+.main h1 {
+  font-weight: 400;
+  margin-top: 50px;
+}
+.main h3 {
+  font-size: 21px;
+  padding-bottom: 7px;
+}
+.main p {
+  font-size: 15px;
 }
